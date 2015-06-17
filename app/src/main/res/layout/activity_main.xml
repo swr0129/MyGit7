@@ -10,4 +10,15 @@
         android:textSize="60dp"
         android:id="@+id/" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="추가 수정"
+        android:id="@+id/textView"
+        android:layout_below="@+id/"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="106dp"
+        android:textSize="30dp" />
+
 </RelativeLayout>
